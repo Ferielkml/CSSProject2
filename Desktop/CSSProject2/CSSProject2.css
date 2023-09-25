@@ -1,0 +1,72 @@
+style.css
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+nav {
+    background-color: #5b328e;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+}
+li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+}
+
+h1{
+    font-size: 30px
+}
+.title{
+  
+font-size: 25px;
+    
+   
+color: rgb(120, 83, 165);
+}
+.paragraph{
+    
+   
+    font-size: 20px;
+        
+       
+    color: rgb(133, 113, 163);
+    }
+    .btn{
+    
+   
+        font-size: 20px;
+            
+           
+        color: rgb(178, 137, 242);
+        }
+        .put{
+    
+   
+            font-size: 20px;
+                
+               
+            color: rgb(73, 37, 163);
+            }       
+
